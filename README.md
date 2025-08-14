@@ -22,3 +22,6 @@ Swing/AWT: For the graphical user interface (GUI).
 java.net.Socket and java.net.ServerSocket: For network communication.
 Swing/AWT: For the graphical user interface (GUI).
 java.net.Socket and java.net.ServerSocket: For network communication.
+
+Author
+Aditya Shekhar - https://github.com/AdityaShekhar21
