@@ -5,7 +5,7 @@ This is a simple two-person chat application built in Java. It allows two users 
 
 # How It Works
 The application operates on a client-server model. One user acts as the server, and the other user acts as the client.
-The server application listens for incoming connections from the client.
+The server application listens for incoming connections from the clients.
 The client application connects to the server.
 Once the connection is established, both users can type messages and send them to the other.
 Messages are transmitted as data streams over the network, ensuring a continuous flow of conversation.
